@@ -1,6 +1,6 @@
 {
 "data": [
-  item:{id: 1, title: "başlık 1"},
-  item:{id: 2, title: "başlık 2"}
+  {"id": 1, "title": "başlık 1"},
+  {"id": 2, "title": "başlık 2"}
 ]
 }
